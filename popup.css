@@ -1,0 +1,21 @@
+button {
+    height: 40px;
+    width: 100px;
+    background: #111111;
+    border: 0;
+    text-align: center;
+    color: #aaaaaa;
+    transition-duration: 0.6s;
+    font-family: "Segoe UI";
+    font-size: 20px;
+}
+
+button:hover {
+    background: #225522;
+}
+
+body {
+    background: #333333;
+    margin: 0;
+    border: 0;
+}
