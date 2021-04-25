@@ -8,6 +8,7 @@ In your chrome extensions settings, activate developer mode and "Load unpacked".
 Select your preferred folder.
 
 In order to have the extension activate on a website, you need to add the domain to _manifest.json_
+
 Under _content_scripts > matches_ and _host_permissions_, add the domains you want the extension to apply to. After each update, you need to reload the extension in your extensions settings with the "refresh" icon.
 
 The extension also has three modes:
