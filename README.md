@@ -16,3 +16,5 @@ The extension also has three modes:
  - Flatten (normal colors but darkened)
  - Default (no changes)
 To adjust the mode, click on the extension at the top right of your chrome browser and select the extension.
+
+The new mode will apply the next time you load a webpage.
