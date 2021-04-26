@@ -1,5 +1,5 @@
 # chromedark
-Open Source Dark Mode for Chrome you can be sure isn't spying on you
+Open Source Dark Mode for Chrome that preserves constrast levels you can be sure isn't spying on you
 
 (Actually it just inverts colors and hue-rotates by 180deg).
 
